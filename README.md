@@ -17,6 +17,14 @@
 ### Summary
 
 ##### There were 369,711 total votes
+
+##### There were 3 Counties:
+* Jefferson county had 10.5% of the votes and 38,855 number of votes
+* Denver county had 82.8% of the votes and 306,055 number of votes
+* Arapahoe county had 6.7% of the votes and 24,801 number of votes
+
+The largest county turnout was Denver county
+
 ##### There were 3 candidates:
 * Charles Casper Stockham
 * Diana DeGette
