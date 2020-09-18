@@ -20,19 +20,19 @@
 ##### There were 369,711 total votes
 
 ##### There were 3 Counties, and the results are:
-* Jefferson county had 10.5% of the votes and 38,855 number of votes
-* Denver county had 82.8% of the votes and 306,055 number of votes
-* Arapahoe county had 6.7% of the votes and 24,801 number of votes
+* Jefferson county has 10.5% with 38,855 votes
+* Denver county has 82.8% with 306,055 votes
+* Arapahoe county has 6.7% with 24,801 votes
 
 The largest county turnout was Denver county
 
 ##### There were 3 candidates, and the results are:
-* Charles Casper Stockham received 23.0% of the votes and 84,213 number of votes
-* Diana DeGette received 73.8% of the votes and 272,892 number of votes
-* Raymon Anthony Doane received 3.1% of the votes and 11,606 number of votes
+* Charles Casper Stockham has 23.0% with 85,213 votes
+* Diana DeGette has 73.8% with 272,892 votes
+* Raymon Anthony Doane has 3.1% with 11,606 votes
 
-##### The Winner of the election was:
-Diane DeGette who received 73.8% of the votes and 272,892 number of votes
+##### The Winner of the election is:
+Diane DeGette who received 73.8% with 272,892 votes
 
 ### Election Audit Summary
 This script should be able to be easily reused for any election with minimal effort. One requirement is that the input file of the election results is in the same format, otherwise the script will need to be modified for the new format.
