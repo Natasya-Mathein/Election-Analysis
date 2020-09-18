@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-#### The Colorado Board of Elections needs to certify a vote count for an election. An employee has been given the following tasks to complete the election audit of a recent local congressional election.
+#### The Colorado Board of Elections needs to certify a vote count for an election. An employee has been given the following tasks to complete the audit of a recent local congressional election.
 
    - Calculate the total number of votes cast
    - For each county, calculate the number of votes they received and the their pecentage of the total number of votes.
