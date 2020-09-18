@@ -4,11 +4,11 @@
 
 ##### The Colorado Board of Elections needs to certify a vote count for an election. An employee has been given the following tasks to complete the election audit of a recent local congressional election.
 
-    * Calculate the total number of votes cast
-    * For each county, calculate the number of votes they received and the their pecentage of the total number of votes.
-    * Determine the county with the highest number of votes
-    * For each candidate, calculate the numnber of votes they received and their percentage of the total number of votes
-    * Determine the winner of the election based on popular vote
+   - Calculate the total number of votes cast
+   - For each county, calculate the number of votes they received and the their pecentage of the total number of votes.
+   - Determine the county with the highest number of votes
+   - For each candidate, calculate the numnber of votes they received and their percentage of the total number of votes
+   - Determine the winner of the election based on popular vote
 
 
 ### Resources
