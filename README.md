@@ -35,7 +35,7 @@ The largest county turnout was Denver county
 Diane DeGette who received 73.8% of the votes and 272,892 number of votes
 
 ### Election Audit Summary
-This script should be able to be easily reused for future election results with minimal effort. One requirement is that the input file of the election results is in the same format, otherwise the script will need to be modified for the new format.
+This script should be able to be easily reused for any election with minimal effort. One requirement is that the input file of the election results is in the same format, otherwise the script will need to be modified for the new format.
 
 For each election, the variables "file_to_load" and "file_to_save" will need to be modified with the new path and names of the input and output files. Here is an example of the section of the code that needs to be modified:
 ```
